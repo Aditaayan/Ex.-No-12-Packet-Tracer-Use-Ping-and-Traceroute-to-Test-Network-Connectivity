@@ -117,11 +117,14 @@ show ip interface brief	Verify IPv4 interface status<br>
 show ipv6 interface brief	Verify IPv6 interface status<br>
 ________________________________________
 # Output (Attach Screenshots)
-<img width="1919" height="1071" alt="509354499-21cc4f51-dae3-4fe0-8257-ecc94bf22382" src="https://github.com/user-attachments/assets/3c34d91d-63e7-4c39-bc24-ff11fc1b148d" />
-<img width="1919" height="1078" alt="509354715-182ae40b-d45d-4392-8a0d-679e036b9893" src="https://github.com/user-attachments/assets/aeae0025-cda1-4549-bfec-c5b39f7c1fed" />
-<img width="1919" height="1079" alt="509354776-ee9cd56f-9a22-484b-8895-35a59f8ae39a" src="https://github.com/user-attachments/assets/6d5ff238-8e72-4a90-b099-437bb10a6af5" />
-<img width="1919" height="1079" alt="509354863-8a776b5c-706a-45fb-b2c9-1cba82b19eec" src="https://github.com/user-attachments/assets/b6ef85a7-9e3d-4793-b48e-3bed4838771c" />
-<img width="1919" height="1079" alt="509354916-ee354a8b-615c-4475-818f-ad510d5d4861" src="https://github.com/user-attachments/assets/6bf9feb1-2f45-4fe3-baf3-df4aa340978b" />
+<img width="1037" height="574" alt="image" src="https://github.com/user-attachments/assets/967f96dd-13a6-4b2f-8d6d-d1a2afe3d031" />
+<img width="1042" height="583" alt="image" src="https://github.com/user-attachments/assets/67a8c366-f1ed-4a16-8bc0-6f745b134f43" />
+<img width="1047" height="571" alt="image" src="https://github.com/user-attachments/assets/91c873c5-129f-49dd-8b1f-8d0de6f510d8" />
+<img width="1041" height="570" alt="image" src="https://github.com/user-attachments/assets/08f90213-e400-4a3e-9aaa-0c9984b28f01" />
+
+
+
+
 
 
 
